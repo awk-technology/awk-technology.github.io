@@ -73,22 +73,22 @@ Hash: SHA512
 
         <p>Copyright Awk Technology Pty Ltd 2019</p>
         <p>Last Updated: 31 August 2019</p>
-        <p>A GPG signature of this document is available at: https://awk.technology/privacy/index.html.asc</p>
+        <p>This document is GPG Signed for authenticity: https://awk.technology/privacy/signature.txt</p>
     </body>
 </html>
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE6HXiCrOAW1zqnKhOoGNR6F0o7OIFAl1qeTAACgkQoGNR6F0o
-7OKKcA/6A9d/pO5E4pwjWYdt9tAgX2gzpVp3NAN3+UcPTDvllLPS+mrwaZXQ9eBb
-a2E66XajZEqYvsCgSnm1hIA5Wz2VRGl4fqSsIDE/bqBn/14Gh6sEcG/QiphNYJAG
-uLWGbp3+ap0nsahCiJZjkZFUYodfxCZIgTWihsIhgNBLn9g49ECY+AkQIAcGOMuM
-8L8j+9aMU1539sdtHXtap/C+k0SL2DrsHvrllc9qn71JmVS68FKATQ7BqDdAw9OT
-dg+E0/5m14xuAu+EGNvbODnHnpYWqaYlorpBoV+Rsr/cmcmoE3VdubFnU0GLqdKh
-TnaM7hD7nF7JvS+HwNOboZP+IayS+164crmGGyCQ7RVsXH1UF0e1AgwtTCZtDyAJ
-yPv4tbkcnZWdaTe8QIcnhzFhCWCOsyF7kcV9LoDk2OM5bc1UHAUU22pHpOmntgaq
-x2YFPqO7D/Kq+7RLiQoPhfP5YMSF5yJGmD9NsG6sDFNt244Pv6rrWLWMwtkA4h0n
-lyuYA0S5GgxajuG+a7twLFRiniDI06U5EbZeyx+4RBvo1/SudVp0knjX/uxizq8/
-sTRjx0lKvG6NRQrbVCY4ji0hm6XtuRsA4u04qgiGDHb4624HW2B7kVUHRtz37suq
-f3HOXZ7IAHcQdUzleLpSOhHLcCXXuORbDdebo1FfQpW816SS8K8=
-=46xd
+iQIzBAEBCgAdFiEE6HXiCrOAW1zqnKhOoGNR6F0o7OIFAl1qeu4ACgkQoGNR6F0o
+7OIzIA//Vsmt+aofd1+Z4aqFTHdzk6ja9kcunwVk+lTbcuKADUMjeea5d+kfwk8s
+/YnJTdiHNqxdUH2kyRi73jIl7KcCvFv9N4JpArSspFa+QbjtxK2XLAvJqU/3rDlm
+4gorvZz4dh9UBf0o8JsxG2AfPSMe4h9r7nC6K0ju+d0kcRtMdZ05gQI7w6z6x+qV
+tl/1+ciK3a0QEOiEmCieWi9MaW5l0LXE7ZLnybEpq+bOCOVXw1S9NwArJCv1PKaL
+KKIneoyrAKb5qe4ZIS99wV5F8HF8MhtqtvoEWg4hCwXmYEhJa98GSfSpTLeB0+I+
+/JY/d/2NiXYGiEofCG9gz6Ba5fi0t2RBcHqCt8m/A/2PAWTBC8lL/DmifPFpQy6A
+ExSTtV1E0UyT9NFepZxGaFrT2ERIEolmpIm18Dm/2NWKSdLCZwUwLrGwgsiyTooP
+RLH3MXe795l/gv4G3EDUVeON1Dfcu8NKtWA9OprDbkqC2dTX5AAd4JeO7a5tWItx
+Sm7v9ah8BEyej9IC0JoWClrM4zpt7c6evHm6TsF/O9LXD2xZXQw1i9Z2b8QI8EKH
+vZ4x2zrV4VomTVc11z2RbiOM4NbJoMXdJjcxyvJeq1WuYsjIdoI8NQ8qxWYFIyKs
+hO4XXU6cs8pVlvF4y3H7vBBiCIJNe6szfT3Xj0R+UXAyvOm+BIg=
+=uGtK
 -----END PGP SIGNATURE-----
