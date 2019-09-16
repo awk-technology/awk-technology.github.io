@@ -48,6 +48,8 @@ Hash: SHA512
 
         <p>Awk Report does not share any information it collects with any party other than the user except where required to by law. The collected information is shared in the form of a programmatically generated report shared with the user via email or another method.</p>
 
+        <p>If Awk Technology Pty Ltd or some of its Intellectual Property is acquired by another party, user information may be shared with said party in some form.</p>
+
         <h3>How collected information is stored:</h3>
 
         <p>Awk Report will not store any of the user data that it collects from Facebook other than for a period of time necessary to process the user data and generate a report. After this time the Facebook user data will be deleted without delay. The generated report may be cryptographically signed and may be encrypted before being shared with the user via email or another method and will be deleted within a reasonable amount of time. Your email address and password will be stored securely using best industry practices. Any other user data you provide to us will be stored using best industry practices. Any information collected by our servers will stored securely using best industry practices. Any information that is required to be stored by law will be stored pursuant to the law.</p>
@@ -72,23 +74,23 @@ Hash: SHA512
         </ul>
 
         <p>Copyright Awk Technology Pty Ltd 2019</p>
-        <p>Last Updated: 31 August 2019</p>
+        <p>Last Updated: 16 September 2019</p>
         <p>This document is GPG Signed for authenticity: https://awk.technology/privacy/signature.txt</p>
     </body>
 </html>
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE6HXiCrOAW1zqnKhOoGNR6F0o7OIFAl1qeu4ACgkQoGNR6F0o
-7OIzIA//Vsmt+aofd1+Z4aqFTHdzk6ja9kcunwVk+lTbcuKADUMjeea5d+kfwk8s
-/YnJTdiHNqxdUH2kyRi73jIl7KcCvFv9N4JpArSspFa+QbjtxK2XLAvJqU/3rDlm
-4gorvZz4dh9UBf0o8JsxG2AfPSMe4h9r7nC6K0ju+d0kcRtMdZ05gQI7w6z6x+qV
-tl/1+ciK3a0QEOiEmCieWi9MaW5l0LXE7ZLnybEpq+bOCOVXw1S9NwArJCv1PKaL
-KKIneoyrAKb5qe4ZIS99wV5F8HF8MhtqtvoEWg4hCwXmYEhJa98GSfSpTLeB0+I+
-/JY/d/2NiXYGiEofCG9gz6Ba5fi0t2RBcHqCt8m/A/2PAWTBC8lL/DmifPFpQy6A
-ExSTtV1E0UyT9NFepZxGaFrT2ERIEolmpIm18Dm/2NWKSdLCZwUwLrGwgsiyTooP
-RLH3MXe795l/gv4G3EDUVeON1Dfcu8NKtWA9OprDbkqC2dTX5AAd4JeO7a5tWItx
-Sm7v9ah8BEyej9IC0JoWClrM4zpt7c6evHm6TsF/O9LXD2xZXQw1i9Z2b8QI8EKH
-vZ4x2zrV4VomTVc11z2RbiOM4NbJoMXdJjcxyvJeq1WuYsjIdoI8NQ8qxWYFIyKs
-hO4XXU6cs8pVlvF4y3H7vBBiCIJNe6szfT3Xj0R+UXAyvOm+BIg=
-=uGtK
+iQIzBAEBCgAdFiEE6HXiCrOAW1zqnKhOoGNR6F0o7OIFAl1/VkwACgkQoGNR6F0o
+7OJCNhAAu57+kvKaov5Juq9MPeX9H2WLvTMP3gBGjjsiaA2phI6b+yA7lml+FOgl
+S0DUGPYVyP9+C3BprZhlFrtANAsnJNiF2vaXrBNnDAw7gDieSmtEZ8pz/OYKjziR
+5OKsMcUg+v3hEc+YAEfMDIZmEM/mk/CUwMM2NgXLqeA+IxTecAWwjvhW8tCLpKkI
+9DCLVIx1xsZRikGPxk3CYFY+kU4e+EYy88JJ7RmGWZJU2FMRt6J2TmpUXzbYNMdp
+j7Q8KjDYga8nXniZxB6aLIEJQxUDM2VWI3fB5rgG7S++Te452tvlTF5yLC5cUxeX
+xuwpTyQlMF9RuzdSkbfQvw/a2WO75d3LDnaZ4WJpGlhCTIxRuaKtSa8Mz4gbb2hg
+Cp0XeSvHnM584KKUiNMF0M1eufjp6mU3uMv7L48BojACNCaaEG3MHUUUfrQftIrt
+GUPk8zL8LqQr54YENCvaXJHgwsAuAmAU9frygssU+YVA7SMUON5YS3/Vrgvz5A57
+unsKnVSaE+g7x8gsu2fwvkFYRYSXgFJWIiuWCf+r2VfXJ8xsQAu/o2lRe/hMhAsJ
+utqz+8MbjS6PDfWuOF/n11xrO7JCZNTU82JGeGeiN5MhL1zdy2DUzVe1v/r28dzl
+81LK6+FeL7RVeLk2l+UDJgi+H8llnt/lzvEpODIy1VJ0HNI9BaY=
+=6DjT
 -----END PGP SIGNATURE-----
